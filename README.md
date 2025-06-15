@@ -1,7 +1,7 @@
 # YouTube Preview 2025 (fork of Costas' original with Arantius' GM4-Polyfill js.)
 Instant video previews in popup player by hovering or clicking video thumbs.
 
-# If you are using Ublock origin - uncheck "Malicious URL Blocklist" in Ublock settings or disable filtration in Youtube site only, else miniplayer will not autoplay!
+# If you are using Ublock origin - uncheck "Malicious URL Blocklist" or "Countries, languages" in Ublock settings or disable filtration in Youtube site only, else miniplayer will not autoplay!
 
 ![image](https://github.com/user-attachments/assets/f5120a40-5e9a-405b-903c-bee0108ba6a1)
 
